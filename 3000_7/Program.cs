@@ -20,6 +20,7 @@ namespace _3000_7
             Console.WriteLine(Math.Sqrt(9)); //3
             Console.WriteLine(int.MaxValue);
             Console.WriteLine(int.MinValue);
+            Console.WriteLine(Math.Abs(-3)); //3
                                              
 
         }
